@@ -1,0 +1,20 @@
+html {
+	background-color: #F5E0E9;
+}
+
+body {
+	background-color: white;
+	max-width: 800px;
+	margin: 40px auto;
+	padding: 30px;
+	border-radius: 16px;
+
+}
+
+h1 {
+	color: #45404A;
+}
+
+h2 {
+	color: #AD6885;
+}
